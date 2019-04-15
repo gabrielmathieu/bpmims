@@ -205,6 +205,7 @@ skype: 			zeljko.bareta
 						<th>Event Code</th>
 						<th>Type of Event</th>
 						<th>Pushback From</th>
+						<th>Pushback To</th>						
 						<th>Pushback - Violence</th>
 						<th>Event Location</th>
 						<th>Transit Country</th>
@@ -224,6 +225,7 @@ skype: 			zeljko.bareta
 						<th>Code</th>
 						<th>Event</th>
 						<th>Pushback From</th>
+						<th>Pushback To</th>
 						<th>Pushback - Violence</th>
 						<th>Location</th>
 						<th>Transit Country</th>
