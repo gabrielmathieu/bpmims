@@ -74,6 +74,8 @@ skype: 			zeljko.bareta
 		<iframe width="100%" height="100%" src="https://app.powerbi.com/view?r=eyJrIjoiODBiODg2NjUtMTVlMi00ZTMyLTk3MzktYmFlNTIxZTA1NTM4IiwidCI6IjUwMDA0YWMxLWIwYmQtNGY4MS05N2QzLTc5NGExNGU3Mjk2NyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe><br><br>
 
 		<iframe width="100%" height="100%" src="https://app.powerbi.com/view?r=eyJrIjoiZDNiOWM0NTUtNmNmZi00Y2FiLTg4MmYtZDU0ZThkZDZmY2VkIiwidCI6IjUwMDA0YWMxLWIwYmQtNGY4MS05N2QzLTc5NGExNGU3Mjk2NyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe><br><br>
+		
+		<iframe width="100%" height="100%" src="https://app.powerbi.com/view?r=eyJrIjoiZDNiOWM0NTUtNmNmZi00Y2FiLTg4MmYtZDU0ZThkZDZmY2VkIiwidCI6IjUwMDA0YWMxLWIwYmQtNGY4MS05N2QzLTc5NGExNGU3Mjk2NyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 <?php } ?>
 
