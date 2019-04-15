@@ -306,8 +306,6 @@ skype: 			zeljko.bareta
 						<th>KoBo Link</th>
 						<th>Event</th>
 						<th>Group Information</th>
-						<th>Pushback From</th>
-						<th>Pushback To</th>							
 						<th>Reporting Date</th>
 						<th>Reporting Organization</th>
 					</tr>
